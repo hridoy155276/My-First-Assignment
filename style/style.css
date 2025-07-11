@@ -174,13 +174,13 @@ nav{
 .card-img-set{
     display: flex;
 }
-.com-dit h5{
+.Name-title h5{
     margin: 5px;
     padding: 0px;
     color: rgb(43, 41, 41);
     font-weight: 100;
 }
-.com-dit p{
+.Name-title p{
     margin: 5px;
     padding: 0px;
     color: grey;
