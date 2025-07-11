@@ -23,7 +23,6 @@ button:hover{
     transition: 0.5s;
     box-shadow: 5px 5px 1px rgb(217, 213, 213);
 }
-/* primary class*/
 
 .primary-btn{
     background-color: #4E47FF;
